@@ -1,2 +1,5 @@
-## Hello! I'm Khubaib
-![](https://github.com/khubaibkhalil/khubaibkhalil/blob/main/miau.gif)
+
+<h2 align="center">Hello! I'm Nicolás :artificial_satellite:</h2>
+
+<p align="center"> <img src="![](https://github.com/khubaibkhalil/khubaibkhalil/blob/main/miau.gif" width='480px' />
+</p>
